@@ -11,3 +11,6 @@ Tento dokument shrnuje základní informace o DevOps.
 ## 4
 Tento dokument shrnuje základní informace o Stategii řázení SW projektů.
 
+## 5
+Tento dokument shrnuje základní informace o Databázích a SQL.
+
