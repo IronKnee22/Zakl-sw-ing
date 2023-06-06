@@ -8,3 +8,6 @@ Tento dokument shrnuje základní informace o verzovacích systémech (Git, Svn)
 ## 3
 Tento dokument shrnuje základní informace o DevOps.
 
+## 4
+Tento dokument shrnuje základní informace o Stategii řázení SW projektů.
+
