@@ -1,3 +1,7 @@
 # Zakl-sw-ing
 ## 1 
 Tento dokument shrnuje základní informace o softwarovém inženýrství (SI). 
+
+## 2
+Tento dokument shrnuje základní informace o verzovacích systémech (Git, Svn). 
+
